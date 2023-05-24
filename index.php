@@ -21,7 +21,9 @@
   </header>
   <main>
   <div class="search-form_content">
+     <div class="search-form__heading">
        <h2>日本と世界の時間を比較</h2>
+     </div>
   </div>
   <form class="search-form" action="result.php" method="get">
     <div class="search-form_item">

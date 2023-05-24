@@ -10,7 +10,7 @@
 }
 
 .search-form {
-    direction: flex;
+    display: flex;
     justify-content: center;
 }
 
